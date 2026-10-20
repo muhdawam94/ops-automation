@@ -1,31 +1,9 @@
-# Muhammad Dawam — E-commerce Operations & Python Automation
+# Portfolio moved
 
-A single-page portfolio focused on e-commerce/marketplace operations and production Python automation.
+This repository now redirects to the main portfolio:
 
-**Live:** https://muhdawam94.github.io/ops-automation/
+**https://muhdawam94.github.io/**
 
-## What is included
+The current source lives in the `muhdawam94/muhdawam94.github.io` repository under `03-PORTFOLIO/web-portfolio-utama/`. The full previous version of this page remains in this repository's Git history.
 
-- `index.html` — the entire site (HTML, CSS, minimal JS, no build step)
-- `Muhammad-Dawam-CV.pdf` — the LinkedIn-ready CV linked from the page
-- `.nojekyll` — tells GitHub Pages to serve the files as-is
-
-## Run locally
-
-Open `index.html` in a browser. No server or build tools required.
-
-## Deploy
-
-Published with GitHub Pages from the `main` branch, repository root.
-
-```bash
-git add .
-git commit -m "Update portfolio"
-git push
-```
-
-## Contact
-
-- Email: muhdawam94@gmail.com
-- LinkedIn: https://linkedin.com/in/muh-dawam
-- GitHub: https://github.com/muhdawam94
+`Muhammad-Dawam-CV.pdf` is kept here so old links to the CV keep working.
